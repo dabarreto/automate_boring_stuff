@@ -3,7 +3,7 @@ Practice: Automate the Boring Stuff with Python Programming Course
 
 
 Codes & Learnings from Udemy Course: 
-Automate the Boring Stuff with Python Programming.
+Automate the Boring Stuff with Python Programming.\
 A practical programming course for office workers, academics, and administrators who want to improve their productivity.
 https://www.udemy.com/share/101W8UAkEecFk=/
 
