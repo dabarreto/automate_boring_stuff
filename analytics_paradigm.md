@@ -1,6 +1,5 @@
-Analytics paradigm
-Regardless of type of industry, this paradigm provides a repeatable pathway for effective data problem solving.
-
+# Analytics paradigm
+Regardless of type of industry, this paradigm provides a repeatable pathway for effective data problem solving:
 1.	Decompose the Ask
 2.	Identify Data Sources
 3.	Define Strategy and Metrics
